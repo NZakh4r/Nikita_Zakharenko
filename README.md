@@ -20,14 +20,10 @@ There are two options
 	```
 	
 ### Demo
-Predefined scenarios include the following tests:
+The process of the test-script:
 
 1. Loggin into the https://opensource-demo.orangehrmlive.com by grabbing the corresponding fields above
 2. Creating a new user:
 	> Admin → Add → Fill in data → Save
 3. Removing created user
-
-
-
-https://user-images.githubusercontent.com/54121465/208584449-8832c6f8-419a-40bc-b3ea-5f5aa0cea2ba.mp4
-
+4. https://youtu.be/91cqV10JszQ
