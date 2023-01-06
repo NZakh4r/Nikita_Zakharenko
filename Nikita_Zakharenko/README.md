@@ -1,8 +1,9 @@
 # To run tests:
 
 1)npm install <br />
-2)add valid token in spec/test-constants.ts(const accessToken) <br />
-3)npm test
+2)create a DropBox and provide proper rights
+3)add valid token in spec/test-constants.ts(const accessToken) <br />
+4)run npm test
 
 # Web-API task:
 
